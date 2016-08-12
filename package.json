@@ -1,0 +1,31 @@
+{
+  "name": "electron-react-typescript-sass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "react": "^15.3.0",
+    "react-dom": "^15.3.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-plumber": "^1.1.0",
+    "gulp-sass": "^2.3.2",
+    "gulp-tslint": "^6.0.2",
+    "gulp-tslint-stylish": "^1.1.1",
+    "gulp-typescript": "^2.13.6",
+    "gulp-util": "^3.0.7",
+    "require-dir": "^0.3.0",
+    "source-map-loader": "^0.1.5",
+    "ts-loader": "^0.8.2",
+    "tslint": "^3.14.0",
+    "typescript": "^1.8.10",
+    "webpack": "^1.13.1",
+    "webpack-target-electron-renderer": "^0.4.0"
+  }
+}
